@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pramod
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Front End WebDev
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
